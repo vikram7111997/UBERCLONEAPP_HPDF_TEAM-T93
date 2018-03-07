@@ -1,0 +1,5 @@
+.hasura
+.vscode
+out
+in
+./microservices/loc
