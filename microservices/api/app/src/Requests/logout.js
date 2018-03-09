@@ -1,4 +1,4 @@
-logoutURL = 'https://auth.crossfire37.hasura-app.io/v1/user/logout';
+logoutURL = 'https://auth.fearlessness79.hasura-app.io/v1/user/logout';
 
 //Logout route handeler
 const logout = (req, res) => {

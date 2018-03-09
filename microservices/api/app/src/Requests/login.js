@@ -1,4 +1,4 @@
-loginURL = 'https://auth.crossfire37.hasura-app.io/v1/login'
+loginURL = 'https://auth.fearlessness79.hasura-app.io/v1/login'
 
 //Default request header
 authHeader = {

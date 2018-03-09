@@ -1,5 +1,5 @@
 const axios = require('axios');
-const dataURL = 'https://data.crossfire37.hasura-app.io/v1/query';
+const dataURL = 'https://data.fearlessness79.hasura-app.io/v1/query';
 
 const dbAuthHeader = {
   headers : {

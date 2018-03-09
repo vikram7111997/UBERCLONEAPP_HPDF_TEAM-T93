@@ -1,6 +1,6 @@
-signupURL = 'https://auth.crossfire37.hasura-app.io/v1/signup';
-dataURL = 'https://data.crossfire37.hasura-app.io/v1/query';
-assignRoleURL = 'https://auth.crossfire37.hasura-app.io/v1/admin/user/add-role';
+signupURL = 'https://auth.fearlessness79.hasura-app.io/v1/signup';
+dataURL = 'https://data.fearlessness79.hasura-app.io/v1/query';
+assignRoleURL = 'https://auth.fearlessness79.hasura-app.io/v1/admin/user/add-role';
 
 //Header with admin auth token
 dbAuthHeader = {

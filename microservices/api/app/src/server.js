@@ -11,11 +11,6 @@ const location = require('./LocReqHandler/location.js');
 
 const jsonParser = bodyparser.json();
 
-//your routes here
-// app.get('/', function (req, res) {
-//   res.send("Hello World!");
-// });
-
 //User/Driver signup route
 app.post('/signup', jsonParser, auth.signup);
 
@@ -48,9 +43,6 @@ io.on('connection', function(socket){
 });
     
 http.listen(3000, function () {
-  console.log('Loc microservice active at 3000');
+  console.log('microservice active at 3000');
 });
 
-// app.listen(3000, function () {
-//   console.log('Example app listening on port 3000!');
-// });
