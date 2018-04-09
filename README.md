@@ -1,4 +1,4 @@
-# Uber Clone by HPDF TEAM T93 using nodejs as backend and react native as frontend.
+# Uber Clone App by HPDF TEAM T93 using nodejs as backend and react native as frontend developed as a part of team task during the HPDF internship.
 ## Contributers - VIKRAM ARJUN SHINDE AND SACHIN MATHUR.
 This project is already hosted and is there on the Hasura's Hub for checking it out, here is the link for it - https://hasura.io/hub/projects/techieviki/uberappclone-t93
 Do check it out on ur local systems and let me know about any known issues.
